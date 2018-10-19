@@ -12,6 +12,7 @@ public class DemoPlayList {
 		System.out.println("The longest song is : " + playlist.longestSong());
 		System.out.println("There " + (playlist.tooManyAds()?"was":"was not") + " too many ads in any one hour.");
         //fir
+        // sec
 		
 	}
 
